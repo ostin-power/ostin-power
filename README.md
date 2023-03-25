@@ -15,8 +15,6 @@ I'm currently a backend engineer<br>Passionate coder<br>Guitarist and musician c
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ostin-power&icon=0&color=0)](https://visitcount.itsvg.in)
