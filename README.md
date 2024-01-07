@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently a backend engineer<br>Passionate coder<br>Guitarist and musician composer<br>Motorcycles lover
 
 
